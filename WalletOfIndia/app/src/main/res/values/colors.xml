@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4A148C</color>
+    <color name="primaryColorDark">#8E24AA</color>
+    <color name="accentColor">#4464AD</color>
+    <color name="bg">#CE93D8</color>
+    <color name="mathchallenge">#FFF96B6A</color>
+    <color name="math_app_bar">#E91E63</color>
+    <color name="math_primaryColorDark">#C2185B</color>
+    <color name="memorychallenge">#ff48ff68</color>
+    <color name="memory_app_bar">#8BC34A</color>
+    <color name="memory_primaryColorDark">#689F38</color>
+    <color name="monthlychallenge">#48c6f6</color>
+    <color name="monthly_app_bar">#81D4FA</color>
+    <color name="monthly_primaryColorDark">#01579B</color>
+</resources>

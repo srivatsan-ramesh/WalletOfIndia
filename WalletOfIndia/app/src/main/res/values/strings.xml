@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wallet Of India</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="message">message</string>
+    <string name="title_activity_chal1_page1">Chal1Page1</string>
+    <string name="str_math">Math</string>
+    <string name="str_challenge">Challenge</string>
+    <string name="mathchallenge">mathchallenge</string>
+    <string name="title_activity_chal1page2">chal1page2</string>
+    <string name="title_activity_chal1_page3">Chal1Page3</string>
+    <string name="str_math_que">7 x 4</string>
+    <string name="title_activity_chal2_page1">Chal2Page1</string>
+    <string name="str_memorychallenge">Memory Challenge</string>
+    <string name="str_memory">Memory</string>
+    <string name="title_activity_chal2_page2">Chal2Page2</string>
+    <string name="str_mem_the_pic">Memorise the pictures</string>
+    <string name="str_timeleft">Time Left</string>
+    <string name="str_sec">sec</string>
+    <string name="title_activity_chal2_page3">Chal2Page3</string>
+    <string name="str_pic_que">Is this photo there in the previous photos ?</string>
+    <string name="title_activity_chal3_page1">Chal3Page1</string>
+    <string name="str_monthlychallenge">Monthly Challenge</string>
+    <string name="str_monthly">Monthly</string>
+    <string name="title_activity_chal3_page2">Chal3Page2</string>
+    <string name="title_activity_chal3_page3">Chal3Page3</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+</resources>

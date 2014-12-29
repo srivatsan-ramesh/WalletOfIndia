@@ -1,0 +1,70 @@
+
+<resources>
+    <style name="AppTheme" parent="AppTheme.Base">
+
+    </style>
+    <style name="AppTheme.Base" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/primaryColorDark</item>
+        <item name="colorAccent">@color/accentColor</item>
+
+    </style>
+    <style name="MathTheme" parent="MathTheme.Base">
+
+    </style>
+    <style name="MathTheme.Base" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/math_app_bar</item>
+        <item name="colorPrimaryDark">@color/math_primaryColorDark</item>
+        <item name="colorAccent">@color/accentColor</item>
+    </style>
+    <style name="MemoryTheme" parent="MemoryTheme.Base">
+
+    </style>
+    <style name="MemoryTheme.Base" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/memory_app_bar</item>
+        <item name="colorPrimaryDark">@color/memory_primaryColorDark</item>
+        <item name="colorAccent">@color/accentColor</item>
+    </style>
+    <style name="MonthlyTheme" parent="MonthlyTheme.Base">
+
+    </style>
+    <style name="MonthlyTheme.Base" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/monthly_app_bar</item>
+        <item name="colorPrimaryDark">@color/monthly_primaryColorDark</item>
+        <item name="colorAccent">@color/accentColor</item>
+    </style>
+    <style name="math_round">
+
+        <item name="android:background">@drawable/math_round</item>
+    </style>
+    <style name="memory_round">
+
+        <item name="android:background">@drawable/memory_round</item>
+    </style>
+    <style name="monthly_round">
+
+        <item name="android:background">@drawable/monthly_round</item>
+    </style>
+    <style name="roundrect_chal1">
+
+        <item name="android:background">@drawable/roundrect_chal1</item>
+    </style>
+    <style name="roundrect_chal1_prac">
+
+        <item name="android:background">@drawable/roundrect_chal1_prac</item>
+    </style>
+    <style name="roundrectback">
+
+        <item name="android:background">@drawable/roundrectback</item>
+    </style>
+    <style name="roundrect_chal3">
+
+        <item name="android:background">@drawable/roundrect_chal3</item>
+    </style>
+    <style name="roundrect_chal3_prac">
+
+        <item name="android:background">@drawable/roundrect_chal3_prac</item>
+    </style>
+
+
+</resources>

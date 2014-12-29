@@ -1,0 +1,69 @@
+
+<resources>
+    <style name="AppTheme" parent="AppTheme.Base">
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/primaryColorDark</item>
+        <item name="android:colorAccent">@color/accentColor</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowSharedElementEnterTransition">@android:transition/move</item>
+        <item name="android:windowSharedElementExitTransition">@android:transition/move</item>
+    </style>
+
+    <style name="MathTheme" parent="MathTheme.Base">
+        <item name="android:colorPrimary">@color/math_app_bar</item>
+        <item name="android:colorPrimaryDark">@color/math_primaryColorDark</item>
+        <item name="android:colorAccent">@color/accentColor</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowSharedElementEnterTransition">@android:transition/move</item>
+        <item name="android:windowSharedElementExitTransition">@android:transition/move</item>
+    </style>
+    <style name="MemoryTheme" parent="MemoryTheme.Base">
+        <item name="android:colorPrimary">@color/memory_app_bar</item>
+        <item name="android:colorPrimaryDark">@color/memory_primaryColorDark</item>
+        <item name="android:colorAccent">@color/accentColor</item>
+    </style>
+    <style name="MonthlyTheme" parent="MonthlyTheme.Base">
+        <item name="android:colorPrimary">@color/monthly_app_bar</item>
+        <item name="android:colorPrimaryDark">@color/monthly_primaryColorDark</item>
+        <item name="android:colorAccent">@color/accentColor</item>
+    </style>
+
+    <style name="math_round">
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/math_round</item>
+    </style>
+    <style name="memory_round">
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/memory_round</item>
+    </style>
+    <style name="monthly_round">
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/monthly_round</item>
+    </style>
+    <style name="roundrect_chal1">
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/roundrect_chal1</item>
+    </style>
+    <style name="roundrect_chal1_prac">
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/roundrect_chal1_prac</item>
+    </style>
+    <style name="roundrectback">
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/roundrectback</item>
+    </style>
+    <style name="roundrect_chal3">
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/roundrect_chal3</item>
+    </style>
+    <style name="roundrect_chal3_prac">
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/roundrect_chal3_prac</item>
+    </style>
+
+
+</resources>

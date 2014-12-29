@@ -1,0 +1,91 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mathchallenge"
+    android:orientation="vertical"
+    tools:context=".Chal1Page2" >
+
+
+
+
+    <include
+        android:id="@+id/math_app_bar"
+        layout="@layout/math_app_bar" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+
+        >
+        <TextView
+            style="@style/roundrect_chal1"
+            android:id="@+id/but_playnow_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Play Now"
+
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:layout_marginTop="100dp"
+            android:layout_marginBottom="20dp"
+            android:textColor="#ffffff"
+            android:elevation="10dp"
+            />
+
+        <TextView
+            style="@style/roundrect_chal1"
+            android:id="@+id/but_chal_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Challenge a friend"
+
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:textColor="#ffffff"
+            android:elevation="10dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="right"
+        >
+
+        <TextView
+            style="@style/roundrect_chal1_prac"
+            android:id="@+id/but_practice_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Practice"
+
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:layout_marginTop="70dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="30dp"
+            android:textColor="#ffffff"
+            android:elevation="10dp"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>
